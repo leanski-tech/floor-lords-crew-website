@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/((?!assets/|videos/|flyer-45th-main\\.jpg|flyer-45th-details\\.jpg).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

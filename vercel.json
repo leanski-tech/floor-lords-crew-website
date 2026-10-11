@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/assets/index-FECF9jWW.js",
+      "destination": "https://raw.githubusercontent.com/leanski-tech/floor-lords-crew-website/main/assets/index-FECF9jWW.js"
+    },
+    {
+      "source": "/videos/flc-45th-recap.mp4",
+      "destination": "https://raw.githubusercontent.com/leanski-tech/floor-lords-crew-website/main/videos/flc-45th-recap.mp4"
+    },
+    {
       "source": "/((?!assets/|videos/|flyer-45th-main\\.jpg|flyer-45th-details\\.jpg).*)",
       "destination": "/index.html"
     }

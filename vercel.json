@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/((?!assets/|videos/|flyer-45th-main\\.jpg|flyer-45th-details\\.jpg).*)",
+      "source": "/((?!assets/|videos/|flyer-45th-main\\.jpg|flyer-45th-details\\.jpg|robots\\.txt|sitemap\\.xml|llms\\.txt).*)",
       "destination": "/index.html"
     }
   ]
